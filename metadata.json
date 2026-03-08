@@ -1,0 +1,8 @@
+{
+  "name": "Smart Campus Transport",
+  "description": "Real-time bus tracking, dynamic seat allocation, and intelligent route management for campus transportation.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
